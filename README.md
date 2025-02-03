@@ -1,9 +1,3 @@
-I will extract details from your **Jupyter Notebook** file and generate a detailed **README.md** for your GitHub repository. Let me analyze the content first.
-
-Based on your **Jupyter Notebook**, here is a detailed **README.md** file for your GitHub repository:
-
----
-
 # **Fine-Tuning LLaMA for Alexa Reviews Sentiment Analysis**
 
 ## **Overview**
